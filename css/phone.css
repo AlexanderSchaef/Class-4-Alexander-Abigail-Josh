@@ -1,0 +1,56 @@
+.box22{
+    grid-template-columns: none;
+    background-image:none;
+}
+nav{
+    grid-template-columns:auto auto;
+    background:none;
+    margin-top:1em;
+}
+
+nav a{
+   
+    display:grid;
+    padding:2em;
+    justify-content: center;
+}
+ul {
+    margin-left: 10%;
+}
+.swing6,.swing7{
+    max-width: 100%;
+    padding: 3em;
+  }
+
+.box1{
+    border-top-right-radius: 0%;
+}
+.box13{
+    margin-bottom:100%;
+    
+}
+.firstgolf{
+    width:50%;
+    height:55%;
+}
+.matt{
+    float:none;
+    max-width:100%;
+}
+.box3{
+    grid-template-columns: none;
+}
+.box3pic{
+    margin-right: -10%;
+    margin-bottom: -20%;
+    margin-top: 20%;
+  }
+  .box34 {
+    margin-top: 10%;
+    color: white;
+  
+}
+.box23{
+    margin-bottom: 80%;
+}
+
