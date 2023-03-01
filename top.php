@@ -1,5 +1,9 @@
 <?php
 define('PATH_PARTS', array('filename'=> 'index'));
+
+$allowedNetIds = array('rerickso', 'aschaef1', 'awrigh', 'jwinter');
+$netId = htmlentities($_SERVER["REMOTE_USER"], ENT_QUOTES, "UTF-8");
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
